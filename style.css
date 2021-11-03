@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(248, 214, 203);
+    color: rgb(250, 72, 56);
+}
+h1{
+    font-size:30px;
+    width: 80%;
+    background-color:rgb(243, 168, 168);;
+}
+#camera{
+    border: 2px solid rgb(250, 57, 57);
+    height: 300;
+    width: 300;
+}
